@@ -1,0 +1,28 @@
+{
+  "default": {
+      "config_id": "default",
+      "node_port": 3000,
+      "host": "localhost"
+  },
+  "development": {
+      "config_id": "development",
+      "app_name": "development",
+      "app_desc": "development",
+      "node_port": 3000,
+      "database": "dev-database"
+  },
+  "testing": {
+      "config_id": "testing",
+      "database": "test-database"
+  },
+  "staging": {
+      "config_id": "staging",
+      "node_port": 8080,
+      "database": "stg-database"
+  },
+  "production": {
+      "config_id": "production",
+      "node_port": 8080,
+      "database": "prod-database"
+  }
+}

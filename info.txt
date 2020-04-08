@@ -1,0 +1,4 @@
+This test config was based on the information from this post:
+https://codeburst.io/node-js-best-practices-smarter-ways-to-manage-config-files-and-variables-893eef56cbef
+
+thanks.
